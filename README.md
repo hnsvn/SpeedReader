@@ -24,7 +24,7 @@ How do I request a new site to be added: [File a GitHub issue](https://github.co
 
 How do I report an issue with page rewriting: [File a GitHub issue](https://github.com/huhisoftware/SpeedReader/issues/new?assignees=&labels=&template=content-rewriting-problem.md&title=Content+rewriting+error+on+...)
 
-_Note: SpeedReader implementation has been moved to http://hnqgit.local/huynq/huhi-core/tree/master/components/speedreader_
+_Note: SpeedReader implementation has been moved to http://hnqgit.local/huynq/huhi-core/-/tree/main/components/speedreader_
 
 ## Deployment
 
